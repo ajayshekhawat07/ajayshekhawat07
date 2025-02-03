@@ -40,6 +40,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ajayshekhawat07/ajayshekhawat07/output/snake.svg" alt="Snake animation" />
-
-###
